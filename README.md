@@ -1,2 +1,5 @@
 # UCCS-ECE-Digital-Engineering-Notebook
-Senior Design DEN for ECE 
+
+## B25 Simulator - Concept Development and Prototyping 
+
+> See: Project Management Kanban Board here: https://github.com/users/penvarict/projects/2
