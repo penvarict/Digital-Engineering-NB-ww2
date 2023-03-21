@@ -12,5 +12,5 @@ Sponsor: National Museum of WW2 Aviation, Colorado Springs
 
 
 Noah Irwin - Team Lead, ECE Student UCCS  
-Charlie Penvari - Team Comms. Officer, DASE Student UCCS 
+Charlie Penvari - Team Comms. Officer, DASE Student UCCS  
 William Michael, ECE Department UCCS - DASE Instructor  
