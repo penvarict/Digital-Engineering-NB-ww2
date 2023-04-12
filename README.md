@@ -2,11 +2,18 @@
 Sponsor: National Museum of WW2 Aviation, Colorado Springs
 ## B-25 Gauge Rendering Solution - Concept Development
 
-**B-25 vB Air Manager Created Gauges:**
-- See: Gauges Directory
+**B-25 vB Gauge Graphics:**
+- See: Gauge Graphics Directory
+
+**Air Manager Importable .siff Files**
+These files contain the gauge packages (graphics and logic). You can import them directly into Air Manager. 
+- See: Airmanager Gauges + HW (There is a .siff file for gauges and a .siff file for hardware logic).
 
 **Solution Documentation, Integration Guide, Presentations, Class Deliverables:** 
 - See: Documentation Directory 
+
+** Demo Arduio Code Directory** 
+- Contains demo code for the alternate hardware solution. 
 
 **Who to contact:** 
 
