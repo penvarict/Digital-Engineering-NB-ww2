@@ -12,8 +12,13 @@ These files contain the gauge packages (graphics and logic). You can import them
 **Solution Documentation, Integration Guide, Presentations, Class Deliverables:** 
 - See: Documentation Directory 
 
-** Demo Arduio Code Directory** 
+**Demo Arduio Code Directory** 
 - Contains demo code for the alternate hardware solution. 
+
+## Downloading this repository.
+
+In the releases section of the sidebar, click on the latest release. In the new page, click on the assets section, click on the link that says "Source code (zip)". The download should be automatic.  
+
 
 **Who to contact:** 
 
